@@ -1,0 +1,32 @@
+[
+  House {
+    id: 1,
+    address: "123 Main St, New York",
+    price: 750000.0,
+    description: "Beautiful 3-bedroom house with garden",
+    status: "Available",
+    bedrooms: 3,
+    bathrooms: 2,
+    squareFootage: 1800.0
+  },
+  Apartment {
+    id: 2,
+    address: "456 Downtown Ave, Los Angeles",
+    price: 450000.0,
+    description: "Modern apartment with city views",
+    status: "Available",
+    unitNumber: 502,
+    bedrooms: 2,
+    bathrooms: 1,
+    hasParking: true
+  },
+  Land {
+    id: 3,
+    address: "789 Rural Rd, Texas",
+    price: 150000.0,
+    description: "10-acre plot with water access",
+    status: "Available",
+    acreage: 10.0,
+    zoningType: "Residential"
+  }
+]

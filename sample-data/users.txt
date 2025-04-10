@@ -1,0 +1,22 @@
+[
+  ClientUser {
+    id: 1,
+    username: "john_doe",
+    password: "password123",
+    email: "john@example.com",
+    phone: "1234567890",
+    userType: "client",
+    preferences: "Looking for a 3-bedroom house in downtown"
+  },
+  AgentUser {
+    id: 2,
+    username: "jane_smith",
+    password: "password456",
+    email: "jane@example.com",
+    phone: "9876543210",
+    userType: "agent",
+    licenseNumber: "REA12345",
+    specialization: "Luxury Homes",
+    yearsOfExperience: 5
+  }
+]

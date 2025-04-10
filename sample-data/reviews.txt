@@ -1,0 +1,18 @@
+[
+  Review {
+    id: 1,
+    clientId: 1,
+    agentId: 1,
+    rating: 5,
+    comment: "Jane was very professional and helped us find our dream home!",
+    reviewDate: "2023-11-20"
+  },
+  Review {
+    id: 2,
+    clientId: 1,
+    agentId: 2,
+    rating: 4,
+    comment: "Mike knows the market well, but was sometimes hard to reach.",
+    reviewDate: "2023-10-15"
+  }
+]

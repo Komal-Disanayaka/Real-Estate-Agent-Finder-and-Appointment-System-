@@ -1,0 +1,26 @@
+[
+  Agent {
+    id: 1,
+    name: "Jane Smith",
+    contact: "jane@example.com",
+    location: "New York",
+    specialization: "Luxury Homes",
+    rating: 4.8
+  },
+  Agent {
+    id: 2,
+    name: "Mike Johnson",
+    contact: "mike@example.com",
+    location: "Los Angeles",
+    specialization: "Commercial Properties",
+    rating: 4.5
+  },
+  Agent {
+    id: 3,
+    name: "Sarah Williams",
+    contact: "sarah@example.com",
+    location: "Chicago",
+    specialization: "Apartments",
+    rating: 4.2
+  }
+]
