@@ -21,7 +21,7 @@ The **Real Estate Agent Finder and Appointment System** is a web-based applicati
 
 - **Frontend:** HTML, CSS, JSP, Bootstrap
 - **Backend:** Java (Servlets), JSP
-- **Database:** MySQL
+- **Database:** Local Data files
 - **Server:** Apache Tomcat
 - **Build Tool:** Maven
 
