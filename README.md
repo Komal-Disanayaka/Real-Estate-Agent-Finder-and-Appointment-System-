@@ -27,5 +27,4 @@ The **Real Estate Agent Finder and Appointment System** is a web-based applicati
 
 ---
 
-## 📂 Project Structure
 
